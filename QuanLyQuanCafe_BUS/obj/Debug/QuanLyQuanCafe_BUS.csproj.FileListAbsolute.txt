@@ -1,0 +1,11 @@
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\bin\Debug\QuanLyQuanCafe_BUS.dll
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\bin\Debug\QuanLyQuanCafe_BUS.pdb
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\bin\Debug\QuanLyQuanCafe_DAO.dll
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\bin\Debug\QuanLyQuanCafe_DTO.dll
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\bin\Debug\QuanLyQuanCafe_DAO.pdb
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\bin\Debug\QuanLyQuanCafe_DTO.pdb
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\obj\Debug\QuanLyQuanCafe_BUS.csproj.AssemblyReference.cache
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\obj\Debug\QuanLyQuanCafe_BUS.csproj.CoreCompileInputs.cache
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\obj\Debug\QuanLyQu.81A2B6BA.Up2Date
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\obj\Debug\QuanLyQuanCafe_BUS.dll
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_BUS\obj\Debug\QuanLyQuanCafe_BUS.pdb

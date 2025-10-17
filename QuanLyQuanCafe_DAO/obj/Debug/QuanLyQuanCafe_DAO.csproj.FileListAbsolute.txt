@@ -1,0 +1,9 @@
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DAO\bin\Debug\QuanLyQuanCafe_DAO.dll
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DAO\bin\Debug\QuanLyQuanCafe_DAO.pdb
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DAO\bin\Debug\QuanLyQuanCafe_DTO.dll
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DAO\bin\Debug\QuanLyQuanCafe_DTO.pdb
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DAO\obj\Debug\QuanLyQuanCafe_DAO.csproj.AssemblyReference.cache
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DAO\obj\Debug\QuanLyQuanCafe_DAO.csproj.CoreCompileInputs.cache
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DAO\obj\Debug\QuanLyQu.AF90E5D6.Up2Date
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DAO\obj\Debug\QuanLyQuanCafe_DAO.dll
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DAO\obj\Debug\QuanLyQuanCafe_DAO.pdb

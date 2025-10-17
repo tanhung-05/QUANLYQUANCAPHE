@@ -1,0 +1,6 @@
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DTO\bin\Debug\QuanLyQuanCafe_DTO.dll
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DTO\bin\Debug\QuanLyQuanCafe_DTO.pdb
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DTO\obj\Debug\QuanLyQuanCafe_DTO.csproj.AssemblyReference.cache
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DTO\obj\Debug\QuanLyQuanCafe_DTO.csproj.CoreCompileInputs.cache
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DTO\obj\Debug\QuanLyQuanCafe_DTO.dll
+H:\NĂM 3\.NET\QuanLyQuanCafe\QuanLyQuanCafe_DTO\obj\Debug\QuanLyQuanCafe_DTO.pdb
